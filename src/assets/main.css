@@ -1,5 +1,11 @@
 @import './base.css';
 
+:root {
+
+  --md-sys-color-primary: #9A65C5;
+  --md-sys-color-secondary: #C565AF;
+}
+
 #app {
   max-width: 1280px;
   margin: 0 auto;
